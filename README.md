@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JagannathShingne01
 - 👀 I’m interested in MERN Stack
-- 🌱 I’m currently learning Backend
+- 🌱 I’m currently learning ReactJS
   
 <!---
 JagannathShingne01/JagannathShingne01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
